@@ -109,3 +109,39 @@ main{
     font-size: 20px;
     color: #474747;
 }
+/* what i do styles */
+.what-i-do{
+    margin-top: 130px;
+    text-align: center;
+    background: ;
+
+}
+.wid-dis{
+    margin-bottom: 50px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+    text-align: left;
+    background: rgb(255, 255, 255);
+}
+.skills{
+    margin-left:24px ;
+    background: whitesmoke;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+    padding: 33px;
+}
+img{
+    margin-bottom: 20px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.skill-discription{
+    font-weight: 400;
+    font-size: 16px;
+    bgc
+}
