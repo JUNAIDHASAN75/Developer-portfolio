@@ -33,7 +33,7 @@ line-height: 61px;
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 226PX;
+    padding: 50px 226PX;
 }
 nav ul{
     display: flex;
