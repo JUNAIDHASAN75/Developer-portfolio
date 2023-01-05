@@ -64,7 +64,12 @@ nav li{
     font-size: 18px; 
     margin-bottom: 30px;
 }
+
 /* about me section */
+section{
+    margin-top: 130px;
+} 
+
 main{
     max-width: 1140px;
     margin: 0 auto;
@@ -111,9 +116,9 @@ main{
 }
 /* what i do styles */
 .what-i-do{
-    margin-top: 130px;
+    
     text-align: center;
-    background: ;
+    
 
 }
 .wid-dis{
@@ -144,4 +149,40 @@ img{
     font-weight: 400;
     font-size: 16px;
     bgc
+}
+/* resume */
+.resume{
+    text-align: center;
+}
+
+.resume-container{
+    display: flex;
+    gap: 71px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.resume-about{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747; 
+    margin-bottom: 30px;
+}
+.department-name{
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.edu-year{
+    font-weight: 600;
+    font-size: 20px; 
+    margin-bottom: 20px; 
+    color: #757575;
+   
+}
+.edu-discription{
+    font-weight: 400;
+    font-size: 16px; 
+    margin-bottom: 30px;
+
 }
