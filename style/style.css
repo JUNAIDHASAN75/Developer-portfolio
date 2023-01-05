@@ -156,6 +156,7 @@ img{
 }
 
 .resume-container{
+    margin-top: 113px;
     display: flex;
     gap: 71px;
     text-align: left;
@@ -185,4 +186,31 @@ img{
     font-size: 16px; 
     margin-bottom: 30px;
 
+}
+/* contact and massage */
+.contact{
+    display: flex;
+    gap: 117px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact,.section-title{
+    text-align: left;
+}
+.contact input[type="text"],input[type="email"], textarea{
+    margin-bottom: 20px;
+    border: 0;
+    width: 100%; 
+    padding: 18px 30px;
+
+}
+.connect h3{
+    margin-bottom: 28px;
+
+} 
+input{
+    height: 64px;
+}
+.contact a{
+    text-decoration: none;
 }
